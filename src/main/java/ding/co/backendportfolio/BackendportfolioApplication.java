@@ -10,6 +10,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableScheduling
 public class BackendportfolioApplication {
     public static void main(String[] args) {
+        // This is the main method that starts the Spring Boot application.
         SpringApplication.run(BackendportfolioApplication.class, args);
     }
 
